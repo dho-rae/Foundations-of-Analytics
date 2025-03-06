@@ -34,11 +34,5 @@ Run the Shiny app with:
 shiny::runApp("us_police_killings_analysis.R")
 ```
 
-## Future Enhancements
-- **Expand Dataset**: Incorporate additional variables such as law enforcement agency and incident details.
-- **Geospatial Analysis**: Map incidents to uncover regional patterns.
-- **Sentiment Analysis**: Explore correlations between police violence and public perception via news articles and social media.
-- **Predictive Modelling**: Identify factors that contribute to a higher likelihood of police violence.
-
 ## Conclusion
 The analysis highlights systemic disparities in US police killings, particularly concerning racial biases. Future work should focus on integrating more granular data and employing predictive analytics to inform policy discussions and reforms.
